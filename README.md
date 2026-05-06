@@ -60,4 +60,4 @@ Node.js · Claude AI (Anthropic) · NetSuite REST API · Express · JavaScript
 
 NetSuite AI integration projects · AP/AR automation · ERP workflow automation
 
-📩 Reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/hassan-abdullah-ds)
+📩 Reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/hassan-abdullah-ns)
