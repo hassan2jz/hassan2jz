@@ -41,6 +41,17 @@ A natural language AI assistant for NetSuite that lets you ask questions about i
 
 ---
 
+### NetSuite SuiteScript AI Validator
+A SuiteScript 2.1 User Event Script that runs inside NetSuite and automatically validates vendor bills using Claude AI — auto-approving clean bills and blocking suspicious ones in real time.
+
+**What it does:** Bill saved in NetSuite -> SuiteScript triggers -> Claude validates -> auto-approved or blocked instantly
+
+`SuiteScript 2.1` `Node.js` `Claude AI` `NetSuite API`
+
+[View Project](https://github.com/hassan2jz/netsuite-suitescript-automation)
+
+---
+
 ## What I Do
 
 - AI automation for NetSuite AP and AR workflows
