@@ -52,12 +52,24 @@ A SuiteScript 2.1 User Event Script that runs inside NetSuite and automatically 
 
 ---
 
+### NetSuite AI E-commerce & Inventory Automation
+An AI-powered end-to-end inventory automation system that syncs Shopify/Amazon orders with NetSuite, makes intelligent fulfillment decisions, auto-generates purchase orders, forecasts demand, detects dead stock, and produces executive-level inventory health reports — all powered by Claude AI.
+
+**What it does:** Shopify/Amazon order → AI inventory check → fulfillment decision → low stock detection → AI purchase order generation → demand forecasting → dead stock detection → full executive report
+
+`Node.js` ` Claude AI` `NetSuite API` `Express REST API`
+
+[View Project](https://github.com/hassan2jz/NetSuite-AI-Inventory-Automation-)
+
+---
+
 ## What I Do
 
 - AI automation for NetSuite AP and AR workflows
 - Invoice processing and fraud detection
 - Natural language interfaces for ERP systems
 - Claude AI integrations for finance and operations teams
+- E-commerce & inventory automation for NetSuite
 
 ---
 
